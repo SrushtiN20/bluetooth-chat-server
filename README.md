@@ -24,7 +24,6 @@ A simple two-way chat application using Python that enables communication betwee
    git clone https://github.com/SrushtiN20/BluetoothChatApp.git
    cd BluetoothChatApp
 
-HEAD
 # Bluetooth-chat-server
 Two-way Bluetooth chat using Python sockets and Tkinter
 
