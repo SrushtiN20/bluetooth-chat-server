@@ -17,10 +17,6 @@ A simple two-way chat application using Python that enables communication betwee
 - Tkinter (for GUI)
 - PyBluez or socket library for Bluetooth communication
 
-## 📸 Screenshots
-
-*(You can add screenshots of your app's GUI here)*
-
 ## 📁 How to Run
 
 1. Clone this repository:
